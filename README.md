@@ -1,4 +1,4 @@
-Health Counselling Chatbot -
+Health Counseling Chatbot -
 
 This project aims to develop an intelligent chatbot for health counseling utilizing the power of OpenAI’s API, integrated seamlessly with the Django framework. The AI chatbot will provide a supportive, conversational interface to assist users with their mental health concerns by delivering thoughtful, relevant, and empathetic responses. By leveraging cutting-edge natural language processing (NLP) models from OpenAI, the chatbot will be trained to engage in meaningful dialogue, offering guidance and resources in a user-friendly manner.
 
